@@ -30,8 +30,8 @@
             <div class="header-middle bg-white">
                 <div class="container">
                     <div class="logo-header">
-                        <a href="{{url('index.html')}}">
-                            <img src="{{asset('images/logo-7.png')}}" width="216" height="37" alt="" />
+                        <a href="{{route('index')}}">
+                            <img src="{{asset('images/ufanisi/ufanisi_logo.jpg')}}" style="height: 70px; width: auto;" alt="#"/>
                         </a>
                     </div>
                     <div class="header-info">
@@ -165,12 +165,12 @@
                         <div class="header-nav navbar-collapse ">
                             <ul class=" nav navbar-nav">
                                 <li class="active">
-                                    <a href="{{url('home')}}">Home</a>
+                                    <a href="{{route('index')}}">Home</a>
                                 </li>
                             
                                 <li>  
 
-                                    <a href="{{url('home')}}">Contact Us</a>
+                                    <a href="{{route('index')}}">Contact Us</a>
                                     
                                 </li>
                             

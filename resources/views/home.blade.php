@@ -10,9 +10,9 @@
                 <div id="rev_slider_1050_1" class="slider-dots rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
                     <ul>    
                         <!-- SLIDE  -->
-                        <li data-index="rs-2938" data-transition="slideleft" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"   data-thumb="{{asset('images/main-slider/slider2/slide1.jpg')}}"  data-rotate="0"  data-fsslotamount="7" data-saveperformance="off"  data-title="" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                        <li data-index="rs-2938" data-transition="slideleft" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"   data-thumb="{{asset('images/ufanisi/5ltr_collection.gif')}}"  data-rotate="0"  data-fsslotamount="7" data-saveperformance="off"  data-title="" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <!-- MAIN IMAGE -->
-                            <img src="{{asset('images/main-slider/slider2/slide1.jpg')}}"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <img src="{{asset('images/ufanisi/5ltr_collection.gif')}}"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
                            
                     
@@ -155,9 +155,9 @@
                                                            
                         </li>
                         <!-- SLIDE  -->
-                        <li data-index="rs-2940" data-transition="slideleft" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"   data-thumb="{{asset('images/main-slider/slider2/slide3.jpg')}}"  data-rotate="0"   data-fsslotamount="7" data-saveperformance="off"  data-title="" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                        <li data-index="rs-2940" data-transition="slideleft" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"   data-thumb="{{asset('images/ufanisi/sunny_leaves.jpg')}}"  data-rotate="0"   data-fsslotamount="7" data-saveperformance="off"  data-title="" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <!-- MAIN IMAGE -->
-                            <img src="{{asset('images/main-slider/slider2/slide3.jpg')}}"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <img src="{{asset('images/ufanisi/sunny_leaves.jpg')}}"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
                            
                     
@@ -348,7 +348,7 @@
                 <div class="container">
                     <!-- TITLE START-->
                     <div class="section-head text-center">
-                        <h2><span class="text-primary">Our</span> Services</h2>
+                        <h2><span class="text-primary">Our</span> Products</h2>
                         <div class="wt-separator-outer">
                             <div class="wt-separator style-icon">
                                 <i class="fa fa-leaf text-black"></i>
@@ -372,7 +372,7 @@
                                                 <span class="icon-cell  text-black"><i class="flaticon-people"></i></span>
                                             </div>
                                             <div class="icon-content">
-                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">Spa</span>
+                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">SHAMPOOS</span>
                                             </div>
                                         </div>
                                     </div>
@@ -387,7 +387,7 @@
                                                 <span class="icon-cell  text-black"><i class="flaticon-eye"></i></span>
                                             </div>
                                             <div class="icon-content">
-                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">Hair Makeup</span>
+                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">CONDITIONERS</span>
                                             </div>
                                         </div>
                                     </div>
@@ -402,7 +402,7 @@
                                                 <span class="icon-cell  text-black"><i class="flaticon-female-hairs"></i></span>
                                             </div>
                                             <div class="icon-content">
-                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">Waxing</span>
+                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">POMADE</span>
                                             </div>    
                                         </div>
                                     </div>
@@ -417,7 +417,7 @@
                                                 <span class="icon-cell  text-black"><i class="flaticon-mirror"></i></span>
                                             </div>
                                             <div class="icon-content">
-                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">Facial</span>
+                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">HAND WASH</span>
                                             </div>
                                         </div>
                                     </div>
@@ -432,7 +432,7 @@
                                                 <span class="icon-cell  text-black"><i class="flaticon-spray-bottle"></i></span>
                                             </div>
                                             <div class="icon-content">
-                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">Massage</span>
+                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">SANITIZERS</span>
                                             </div>
                                         </div>
                                     </div>
@@ -447,12 +447,58 @@
                                                 <span class="icon-cell  text-black"><i class="flaticon-people"></i></span>
                                             </div>
                                             <div class="icon-content">
-                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">Spa</span>
+                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">HAIR FOOD</span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
+                            <div class="item">
+                                <div data-toggle="tab" data-target="#pricing-item6" class="tab-block">
+                                    <div class="our-pricing-tab  radius-sm bdr-1 bdr-gray">
+                                        <div class="wt-icon-box-wraper center  p-lr10">
+                                            <div class="icon-lg m-b5">
+                                                <span class="icon-cell  text-black"><i class="flaticon-people"></i></span>
+                                            </div>
+                                            <div class="icon-content">
+                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">LEAVE-IN TREATMENT</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div data-toggle="tab" data-target="#pricing-item6" class="tab-block">
+                                    <div class="our-pricing-tab  radius-sm bdr-1 bdr-gray">
+                                        <div class="wt-icon-box-wraper center  p-lr10">
+                                            <div class="icon-lg m-b5">
+                                                <span class="icon-cell  text-black"><i class="flaticon-people"></i></span>
+                                            </div>
+                                            <div class="icon-content">
+                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">CURLY GEL</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div data-toggle="tab" data-target="#pricing-item6" class="tab-block">
+                                    <div class="our-pricing-tab  radius-sm bdr-1 bdr-gray">
+                                        <div class="wt-icon-box-wraper center  p-lr10">
+                                            <div class="icon-lg m-b5">
+                                                <span class="icon-cell  text-black"><i class="flaticon-people"></i></span>
+                                            </div>
+                                            <div class="icon-content">
+                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">NAIL POLISH REMOVER</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
                             <!-- Block 7 -->
                             <div class="item">
                                 <div data-toggle="tab" data-target="#pricing-item7" class="tab-block">
@@ -462,7 +508,7 @@
                                                 <span class="icon-cell  text-black"><i class="flaticon-eye"></i></span>
                                             </div>
                                             <div class="icon-content">
-                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">Hair Makeup</span>
+                                                <span class="wt-tilte text-uppercase p-b10 inline-block font-weight-600">PETROLEUM JELLY</span>
                                             </div>
                                         </div>
                                     </div>
@@ -479,12 +525,10 @@
                                     <!-- TABS DEFAULT NAV LEFT -->
                                     <div class="wt-tabs vertical bg-tabs">
                                         <ul class="nav nav-tabs">
-                                            <li class="active"><a data-toggle="tab" href="index-4.html#pricing-tab1-1">Massage Therapy</a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab1-2')}}">Facials </a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab1-3')}}">Pedicures</a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab1-4')}}">Manicures</a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab1-5')}}">Body Wraps</a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab1-6')}}">Waxing & Cosmetics</a></li>
+                                            <li class="active"><a data-toggle="tab" href="index-4.html#pricing-tab1-1">Apple Green</a></li>
+                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab1-2')}}">Crystal</a></li>
+                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab1-3')}}">Egg Color</a></li>
+                                            
                                         </ul>
                                         <div class="tab-content p-l50">
                                         
@@ -493,12 +537,12 @@
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s1.jpg')}}" alt="">
+                                                                <img src="{{asset('images/ufanisi/Shampoo-Apple-Green-1LTR-Front.gif')}}" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6">
                                                             <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Massage Therapy </h3>
+                                                                <h3 class="font-26 p-b20 font-weight-400">Apple Green Shampoo </h3>
                                                                 <h4 class="text-primary">$40 - $80</h4>
                                                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                                                                 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -520,12 +564,12 @@
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s2.jpg')}}" alt="">
+                                                                <img src="{{asset('images/ufanisi/Shampoo-CRYSTAL-1LTR-Front.gif')}}" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6">
                                                             <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Facials </h3>
+                                                                <h3 class="font-26 p-b20 font-weight-400">Crystal Shampoo</h3>
                                                                 <h4 class="text-primary">$40 - $80</h4>
                                                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                                                                 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -541,18 +585,18 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            
+
                                             <div id="pricing-tab1-3" class="tab-pane">
                                                 <div class="pricing-tab-inner">
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s3.jpg')}}" alt="">
+                                                                <img src="{{asset('images/ufanisi/Shampoo-Egg-Yellow-1LTR-Front.gif')}}" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6">
                                                             <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Pedicures </h3>
+                                                                <h3 class="font-26 p-b20 font-weight-400">Egg Shampoo</h3>
                                                                 <h4 class="text-primary">$40 - $80</h4>
                                                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                                                                 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -569,86 +613,6 @@
                                                 </div>
                                             </div>
                                             
-                                            <div id="pricing-tab1-4" class="tab-pane">
-                                                <div class="pricing-tab-inner">
-                                                    <div class="row">
-                                                        <div class="col-md-6">
-                                                            <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s4.jpg')}}" alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-6">
-                                                            <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Manicures</h3>
-                                                                <h4 class="text-primary">$40 - $80</h4>
-                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                                                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                                                remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
-                                                                text of the printing and eentially unchanged.
-                                                                </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
-                                                                  <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            
-                                            <div id="pricing-tab1-5" class="tab-pane">
-                                                <div class="pricing-tab-inner">
-                                                    <div class="row">
-                                                        <div class="col-md-6">
-                                                            <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s5.jpg')}}" alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-6">
-                                                            <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Body Wraps</h3>
-                                                                <h4 class="text-primary">$40 - $80</h4>
-                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                                                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                                                remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
-                                                                text of the printing and eentially unchanged.
-                                                                </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
-                                                                  <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            
-                                            <div id="pricing-tab1-6" class="tab-pane">
-                                                <div class="pricing-tab-inner">
-                                                    <div class="row">
-                                                        <div class="col-md-6">
-                                                            <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s6.jpg')}}" alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-6">
-                                                            <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Waxing & Cosmetics</h3>
-                                                                <h4 class="text-primary">$40 - $80</h4>
-                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                                                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                                                remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
-                                                                text of the printing and eentially unchanged.
-                                                                </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
-                                                                  <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
                                             
                                         </div>
                                     </div>
@@ -660,12 +624,9 @@
                                     <!-- TABS DEFAULT NAV LEFT -->
                                     <div class="wt-tabs vertical bg-tabs">
                                         <ul class="nav nav-tabs">
-                                            <li class="active"><a data-toggle="tab" href="{{url('index-4.html#pricing-tab2-1')}}">Hair Color</a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab2-2')}}">Braids & Twist</a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab2-3')}}">Corrective Color</a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab2-4')}}">Hair Extension</a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab2-5')}}">Hair Cut</a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab2-6')}}">Partial Foil</a></li>
+                                            <li class="active"><a data-toggle="tab" href="{{url('index-4.html#pricing-tab2-1')}}">Cream</a></li>
+                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab2-2')}}">White</a></li>
+                                            
                                         </ul>
                                         <div class="tab-content p-l50">
                                         
@@ -674,12 +635,12 @@
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s2.jpg')}}" alt="">
+                                                                <img src="{{asset('images/ufanisi/Conditioner-Cream-5LTRs-Front.gif')}}" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6">
                                                             <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Hair Color </h3>
+                                                                <h3 class="font-26 p-b20 font-weight-400">Cream Conditioner</h3>
                                                                 <h4 class="text-primary">$40 - $80</h4>
                                                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                                                                 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -701,12 +662,12 @@
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s3.jpg')}}" alt="">
+                                                                <img src="{{asset('images/ufanisi/Conditioner-White-5LTRs-Front.gif')}}" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6">
                                                             <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Braids & Twist </h3>
+                                                                <h3 class="font-26 p-b20 font-weight-400">White Conditioner </h3>
                                                                 <h4 class="text-primary">$40 - $80</h4>
                                                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                                                                 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -723,130 +684,23 @@
                                                 </div>
                                             </div>
                                             
-                                            <div id="pricing-tab2-3" class="tab-pane">
-                                                <div class="pricing-tab-inner">
-                                                    <div class="row">
-                                                        <div class="col-md-6">
-                                                            <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s4.jpg')}}" alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-6">
-                                                            <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Corrective Color</h3>
-                                                                <h4 class="text-primary">$40 - $80</h4>
-                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                                                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                                                remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
-                                                                text of the printing and eentially unchanged.
-                                                                </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
-                                                                  <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            
-                                            <div id="pricing-tab2-4" class="tab-pane">
-                                                <div class="pricing-tab-inner">
-                                                    <div class="row">
-                                                        <div class="col-md-6">
-                                                            <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s5.jpg')}}" alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-6">
-                                                            <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Hair Extension</h3>
-                                                                <h4 class="text-primary">$40 - $80</h4>
-                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                                                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                                                remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
-                                                                text of the printing and eentially unchanged.
-                                                                </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
-                                                                  <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            
-                                            <div id="pricing-tab2-5" class="tab-pane">
-                                                <div class="pricing-tab-inner">
-                                                    <div class="row">
-                                                        <div class="col-md-6">
-                                                            <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s6.jpg')}}" alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-6">
-                                                            <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Hair Cut</h3>
-                                                                <h4 class="text-primary">$40 - $80</h4>
-                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                                                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                                                remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
-                                                                text of the printing and eentially unchanged.
-                                                                </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
-                                                                  <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            
-                                            <div id="pricing-tab2-6" class="tab-pane">
-                                                <div class="pricing-tab-inner">
-                                                    <div class="row">
-                                                        <div class="col-md-6">
-                                                            <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s1.jpg')}}"  alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-6">
-                                                            <div class="wt-tilte">
-                                                                <h3 class="font-26 p-b20 font-weight-400">Partial Foil</h3>
-                                                                <h4 class="text-primary">$40 - $80</h4>
-                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                                                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                                                remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
-                                                                text of the printing and eentially unchanged.
-                                                                </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
-                                                                  <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            
+                                           
                                         </div>
                                     </div>
                                 </div>
                         </div>
                         <!-- Block 3 -->
-                        <div id="pricing-item3" class="pricing-tab-content-block tab-pane">
+                         <div id="pricing-item3" class="pricing-tab-content-block tab-pane">
                             <div class="section-content p-t50">
                                     <!-- TABS DEFAULT NAV LEFT -->
                                     <div class="wt-tabs vertical bg-tabs">
                                         <ul class="nav nav-tabs">
-                                            <li class="active"><a data-toggle="tab" href="{{url('index-4.html#pricing-tab3-1')}}">Eye Brows </a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab3-2')}}">Lips </a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab3-3')}}">Eye Brow & Lips</a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab3-4')}}">Chin & Lips </a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab3-5')}}">Side of Face</a></li>
-                                            <li><a data-toggle="tab" href="{{url('index-4.html#pricing-tab3-6')}}">Lower Leg</a></li>    
+                                            <li class="active"><a data-toggle="tab" href="index-4.html#pricing-tab3-1">Eye Brows </a></li>
+                                            <li><a data-toggle="tab" href="index-4.html#pricing-tab3-2">Lips </a></li>
+                                            <li><a data-toggle="tab" href="index-4.html#pricing-tab3-3">Eye Brow & Lips</a></li>
+                                            <li><a data-toggle="tab" href="index-4.html#pricing-tab3-4">Chin & Lips </a></li>
+                                            <li><a data-toggle="tab" href="index-4.html#pricing-tab3-5">Side of Face</a></li>
+                                            <li><a data-toggle="tab" href="index-4.html#pricing-tab3-6">Lower Leg</a></li>    
                                         </ul>
                                         <div class="tab-content p-l50">
                                         
@@ -855,7 +709,7 @@
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s3.jpg')}}"  alt="">
+                                                                <img src="images/our-services/large/s3.jpg"  alt="">
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6">
@@ -868,7 +722,7 @@
                                                                 remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
                                                                 text of the printing and eentially unchanged.
                                                                 </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
+                                                                <a href="index-4.html" class="site-button skew-icon-btn radius-sm">
                                                                   <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
                                                                 </a>
                                                             </div>
@@ -882,7 +736,7 @@
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s4.jpg')}}"  alt="">
+                                                                <img src="images/our-services/large/s4.jpg"  alt="">
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6">
@@ -895,7 +749,7 @@
                                                                 remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
                                                                 text of the printing and eentially unchanged.
                                                                 </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
+                                                                <a href="index-4.html" class="site-button skew-icon-btn radius-sm">
                                                                   <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
                                                                 </a>
                                                             </div>
@@ -909,7 +763,7 @@
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s5.jpg')}}"  alt="">
+                                                                <img src="images/our-services/large/s5.jpg"  alt="">
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6">
@@ -922,7 +776,7 @@
                                                                 remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
                                                                 text of the printing and eentially unchanged.
                                                                 </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
+                                                                <a href="index-4.html" class="site-button skew-icon-btn radius-sm">
                                                                   <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
                                                                 </a>
                                                             </div>
@@ -936,7 +790,7 @@
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s6.jpg')}}"  alt="">
+                                                                <img src="images/our-services/large/s6.jpg"  alt="">
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6">
@@ -949,7 +803,7 @@
                                                                 remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
                                                                 text of the printing and eentially unchanged.
                                                                 </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
+                                                                <a href="index-4.html" class="site-button skew-icon-btn radius-sm">
                                                                   <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
                                                                 </a>
                                                             </div>
@@ -963,7 +817,7 @@
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s1.jpg')}}"  alt="">
+                                                                <img src="images/our-services/large/s1.jpg"  alt="">
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6">
@@ -976,7 +830,7 @@
                                                                 remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
                                                                 text of the printing and eentially unchanged.
                                                                 </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
+                                                                <a href="index-4.html" class="site-button skew-icon-btn radius-sm">
                                                                   <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
                                                                 </a>
                                                             </div>
@@ -990,7 +844,7 @@
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <div class="wt-media">
-                                                                <img src="{{asset('images/our-services/large/s2.jpg')}}"  alt="">
+                                                                <img src="images/our-services/large/s2.jpg"  alt="">
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6">
@@ -1003,7 +857,7 @@
                                                                 remaining essentially unchanged. It was popularised in the with theLorem Ipsum is simply dummy
                                                                 text of the printing and eentially unchanged.
                                                                 </p>
-                                                                <a href="{{url('index-4.html')}}" class="site-button skew-icon-btn radius-sm">
+                                                                <a href="index-4.html" class="site-button skew-icon-btn radius-sm">
                                                                   <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span> 
                                                                 </a>
                                                             </div>
@@ -1016,6 +870,7 @@
                                     </div>
                                 </div>
                         </div>
+                                            
                         <!-- Block 4 -->
                         <div id="pricing-item4" class="pricing-tab-content-block tab-pane">
                             <div class="section-content p-t50">
