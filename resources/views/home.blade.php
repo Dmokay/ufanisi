@@ -313,7 +313,7 @@
                             <div class="col-md-5 col-sm-5">
                                 <div class="about4-section-pic ">
                                     <div class="wt-media">
-                                        <img src="{{asset('images/slid-2.jpg')}}" alt="">
+                                        <img src="{{asset('images/ufanisi/layered-visual.gif')}}" alt="">
                                     </div>
                                 </div>
                             </div>
